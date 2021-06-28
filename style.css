@@ -21,11 +21,11 @@ body {
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    color: rgb(26, 117, 153)
+    color: rgb(0, 0, 0)
 }
 
 hr {
-    border-top: 2px solid rgb(26, 117, 153);
+    border-top: 2px solid rgb(0, 0, 0);
 }
 
 /* Name Block */
@@ -38,7 +38,7 @@ hr {
 }
 #myName {
     font-size: 24pt;
-    color: rgb(26, 117, 153)
+    color: rgb(0, 0, 0)
 }
 /* Skills */
 #skillColContainer {
