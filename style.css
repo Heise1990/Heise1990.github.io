@@ -8,7 +8,7 @@ body {
     max-width: 816px;
     min-width: 600px;
     margin: auto;
-    border: 2px solid rgb(92, 92, 92);
+    border: 2px solid rgb(0, 0, 0);
     box-shadow: 8px 8px grey;
 }
 
@@ -19,6 +19,12 @@ body {
 }
 .sectiontitle {
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(0, 0, 0)
+}
+.sectionheader {
+	text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
     color: rgb(0, 0, 0)
